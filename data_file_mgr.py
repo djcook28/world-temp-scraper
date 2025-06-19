@@ -1,5 +1,3 @@
-import datetime
-
 def initiate_file():
     content = ""
     with open("temp.txt", 'r') as file:
